@@ -3,7 +3,9 @@ The design, I got it from figma I don't remember who but it's not mine, I can't 
 ___
 ### I used
 react, vite, tailwindcss
-
+```
+npm run dev
+```
 ### On pc
 ![Screenshot from 2023-10-24 02-50-19](https://github.com/BetterCallGuts/modern-gui-react/assets/122576822/182b405d-ae79-4c75-864a-f390d5b66002)
 ![Screenshot from 2023-10-24 02-50-32](https://github.com/BetterCallGuts/modern-gui-react/assets/122576822/e8ae63aa-c393-4635-bfd9-8f01d8030e14)
